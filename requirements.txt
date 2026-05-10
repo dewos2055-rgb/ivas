@@ -1,5 +1,4 @@
-Flask
-requests
-beautifulsoup4
+flask
 playwright
-brotli
+beautifulsoup4
+gunicorn
